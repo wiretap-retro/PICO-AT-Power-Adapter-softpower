@@ -1,4 +1,4 @@
-# PICO-AT-Power-Adapter-softpower-
+# PICO-AT Power Adapter - softpower version
 A version of the regular PICO-AT adapter, but with momentary power switch support.
 
 ![pic](pic.png)
