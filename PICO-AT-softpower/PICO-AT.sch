@@ -509,7 +509,7 @@ Wire Wire Line
 	5850 2150 5750 2150
 Connection ~ 5750 2150
 Text Label 7200 1950 0    50   ~ 0
-3.3V
+5VSB
 Wire Wire Line
 	7050 1950 7200 1950
 Wire Wire Line
