@@ -4,7 +4,7 @@ A version of the regular PICO-AT adapter, but with momentary power switch suppor
 ![pic](pic.png)
 
 ## Intro
-I designed this board for a small SBC that I could not fit a large power supply in the enclosure. This design is recommended for PICO-PSU units, and can be used with various retro motherboards that have the AT-style power connector. It is not recommended to pass sustained high current over 8-amps on any single power rail through this PCB.
+I designed this board for a small SBC that I could not fit a large power supply in the enclosure. This design is recommended for PICO-PSU units, and can be used with various retro motherboards that have the AT-style power connector. It is not recommended to pass sustained high current over 8-amps on any single power rail through this PCB. This version utilizes a power switch with momentary actuation. 
 
 ## Building
 * Detailed BOM for Mouser parts is included. Subsitutions may be necessary depending on the chip/component shortages.
